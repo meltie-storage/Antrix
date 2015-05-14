@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/926/src/shared/Database
+END
+DatabaseEnv.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ascent/!svn/ver/44/src/shared/Database/DatabaseEnv.h
+END
+Database.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ascent/!svn/ver/848/src/shared/Database/Database.cpp
+END
+DBC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/926/src/shared/Database/DBC.cpp
+END
+DBCStores.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ascent/!svn/ver/848/src/shared/Database/DBCStores.cpp
+END
+Field.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/44/src/shared/Database/Field.h
+END
+dbcfile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ascent/!svn/ver/21/src/shared/Database/dbcfile.cpp
+END
+Database.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ascent/!svn/ver/726/src/shared/Database/Database.h
+END
+DataStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/388/src/shared/Database/DataStore.h
+END
+DBC.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/44/src/shared/Database/DBC.h
+END
+DBCStores.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/692/src/shared/Database/DBCStores.h
+END
+dbcfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/21/src/shared/Database/dbcfile.h
+END

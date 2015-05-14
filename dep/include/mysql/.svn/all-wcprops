@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/21/dep/include/mysql
+END
+my_pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/21/dep/include/mysql/my_pthread.h
+END
+errmsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/21/dep/include/mysql/errmsg.h
+END
+my_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/21/dep/include/mysql/my_alloc.h
+END
+mysqld_ername.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ascent/!svn/ver/21/dep/include/mysql/mysqld_ername.h
+END
+config-win.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/21/dep/include/mysql/config-win.h
+END
+m_ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/21/dep/include/mysql/m_ctype.h
+END
+mysql_embed.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ascent/!svn/ver/21/dep/include/mysql/mysql_embed.h
+END
+Libmysql.def
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/1/dep/include/mysql/Libmysql.def
+END
+mysql_com.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/21/dep/include/mysql/mysql_com.h
+END
+my_global.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/21/dep/include/mysql/my_global.h
+END
+mysql.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/21/dep/include/mysql/mysql.h
+END
+libmysqld.def
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/1/dep/include/mysql/libmysqld.def
+END
+my_getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/21/dep/include/mysql/my_getopt.h
+END
+typelib.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/21/dep/include/mysql/typelib.h
+END
+mysql_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ascent/!svn/ver/21/dep/include/mysql/mysql_version.h
+END
+raid.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/21/dep/include/mysql/raid.h
+END
+my_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/21/dep/include/mysql/my_list.h
+END
+dbug.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/21/dep/include/mysql/dbug.h
+END
+m_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/21/dep/include/mysql/m_string.h
+END
+mysqld_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/21/dep/include/mysql/mysqld_error.h
+END
+my_sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/21/dep/include/mysql/my_sys.h
+END
+mysql_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/21/dep/include/mysql/mysql_time.h
+END
+my_dbug.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/21/dep/include/mysql/my_dbug.h
+END

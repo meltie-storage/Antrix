@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/645/src/scripts/projects
+END
+ServerStatusPlugin2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ascent/!svn/ver/175/src/scripts/projects/ServerStatusPlugin2003.vcproj
+END
+ServerStatusPlugin2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ascent/!svn/ver/343/src/scripts/projects/ServerStatusPlugin2005.vcproj
+END
+GossipScripts2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ascent/!svn/ver/175/src/scripts/projects/GossipScripts2003.vcproj
+END
+InstanceScripts2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ascent/!svn/ver/645/src/scripts/projects/InstanceScripts2003.vcproj
+END
+IRCPlugin2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ascent/!svn/ver/409/src/scripts/projects/IRCPlugin2003.vcproj
+END
+TemplateProject.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ascent/!svn/ver/1/src/scripts/projects/TemplateProject.vcproj
+END
+GossipScripts2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ascent/!svn/ver/181/src/scripts/projects/GossipScripts2005.vcproj
+END
+InstanceScripts2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ascent/!svn/ver/645/src/scripts/projects/InstanceScripts2005.vcproj
+END
+SpellsHandlers2003.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ascent/!svn/ver/175/src/scripts/projects/SpellsHandlers2003.vcproj
+END
+SpellsHandlers2005.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ascent/!svn/ver/181/src/scripts/projects/SpellsHandlers2005.vcproj
+END

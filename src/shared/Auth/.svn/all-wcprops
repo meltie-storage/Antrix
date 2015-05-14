@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ascent/!svn/ver/848/src/shared/Auth
+END
+WowCrypt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/44/src/shared/Auth/WowCrypt.cpp
+END
+BigNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/44/src/shared/Auth/BigNumber.h
+END
+Sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/44/src/shared/Auth/Sha1.h
+END
+WowCrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/848/src/shared/Auth/WowCrypt.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/1/src/shared/Auth/md5.c
+END
+BigNumber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/569/src/shared/Auth/BigNumber.cpp
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/21/src/shared/Auth/md5.h
+END
+Sha1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/44/src/shared/Auth/Sha1.cpp
+END

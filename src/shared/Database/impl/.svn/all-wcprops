@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/892/src/shared/Database/impl
+END
+MySQLDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ascent/!svn/ver/726/src/shared/Database/impl/MySQLDatabase.h
+END
+PostgreDatabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascent/!svn/ver/507/src/shared/Database/impl/PostgreDatabase.cpp
+END
+MySQLDatabase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ascent/!svn/ver/892/src/shared/Database/impl/MySQLDatabase.cpp
+END
+PostgreDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ascent/!svn/ver/726/src/shared/Database/impl/PostgreDatabase.h
+END

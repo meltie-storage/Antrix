@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ascent/!svn/ver/165/dep/src/gm/doc
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/165/dep/src/gm/doc/ChangeLog.txt
+END
+GameMonkeyLicense.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ascent/!svn/ver/165/dep/src/gm/doc/GameMonkeyLicense.pdf
+END
+GameMonkeyScriptReference.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascent/!svn/ver/165/dep/src/gm/doc/GameMonkeyScriptReference.pdf
+END
+GameMonkeyGarbageCollection.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ascent/!svn/ver/165/dep/src/gm/doc/GameMonkeyGarbageCollection.pdf
+END
+GameMonkeyFAQ.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ascent/!svn/ver/165/dep/src/gm/doc/GameMonkeyFAQ.pdf
+END
+gmdoc.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/doc/gmdoc.html
+END

@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/ascent/!svn/ver/853/dep/src/gm
+END
+gmLibHooks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmLibHooks.cpp
+END
+gmCall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/165/dep/src/gm/gmCall.cpp
+END
+gmThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/165/dep/src/gm/gmThread.h
+END
+gmTableObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/165/dep/src/gm/gmTableObject.cpp
+END
+gmVector3Lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmVector3Lib.h
+END
+gmFunctionObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/853/dep/src/gm/gmFunctionObject.h
+END
+gmParser.cpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmParser.cpp.h
+END
+gmOperators.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/165/dep/src/gm/gmOperators.h
+END
+gmStreamBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/165/dep/src/gm/gmStreamBuffer.cpp
+END
+gmDebug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/165/dep/src/gm/gmDebug.cpp
+END
+gmLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/165/dep/src/gm/gmLog.h
+END
+gmIncGC.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/853/dep/src/gm/gmIncGC.h
+END
+gmConfig_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/167/dep/src/gm/gmConfig_p.h
+END
+gmStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmStream.cpp
+END
+gmGCRoot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmGCRoot.cpp
+END
+gmArraySimple.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/165/dep/src/gm/gmArraySimple.h
+END
+gmStringLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/165/dep/src/gm/gmStringLib.cpp
+END
+gmStringObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/165/dep/src/gm/gmStringObject.cpp
+END
+gmIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmIterator.h
+END
+gmByteCode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmByteCode.cpp
+END
+gmGCRootUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/507/dep/src/gm/gmGCRootUtil.h
+END
+gmHelpers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/165/dep/src/gm/gmHelpers.cpp
+END
+gmMemFixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMemFixed.h
+END
+gmCodeGen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/165/dep/src/gm/gmCodeGen.cpp
+END
+gmListDouble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/165/dep/src/gm/gmListDouble.cpp
+END
+gmThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmThread.cpp
+END
+gmMemFixedSet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMemFixedSet.cpp
+END
+gmConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/165/dep/src/gm/gmConfig.h
+END
+gmCrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/165/dep/src/gm/gmCrc.h
+END
+gmCodeGenHooks.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/165/dep/src/gm/gmCodeGenHooks.h
+END
+gmMem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMem.cpp
+END
+gmLibHooks.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmLibHooks.h
+END
+gmLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/165/dep/src/gm/gmLog.cpp
+END
+gmUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/165/dep/src/gm/gmUtil.h
+END
+gmTableObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/853/dep/src/gm/gmTableObject.h
+END
+gmIncGC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/165/dep/src/gm/gmIncGC.cpp
+END
+gmMemChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMemChain.h
+END
+gmByteCodeGen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/165/dep/src/gm/gmByteCodeGen.cpp
+END
+gmHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/165/dep/src/gm/gmHash.h
+END
+gmCodeTree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmCodeTree.cpp
+END
+gmGCRootUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/165/dep/src/gm/gmGCRootUtil.cpp
+END
+gmDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/165/dep/src/gm/gmDebug.h
+END
+gmParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmParser.cpp
+END
+gmMachineLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMachineLib.h
+END
+gmByteCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmByteCode.h
+END
+gmMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/255/dep/src/gm/gmMachine.cpp
+END
+gmCrc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/165/dep/src/gm/gmCrc.cpp
+END
+gmHelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/165/dep/src/gm/gmHelpers.h
+END
+gmCodeGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/853/dep/src/gm/gmCodeGen.h
+END
+gmUserObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/853/dep/src/gm/gmUserObject.h
+END
+gmArrayLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmArrayLib.h
+END
+gmListDouble.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmListDouble.h
+END
+gmUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/165/dep/src/gm/gmUtil.cpp
+END
+gmMemFixedSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMemFixedSet.h
+END
+gmSystemLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/165/dep/src/gm/gmSystemLib.h
+END
+gmMathLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMathLib.cpp
+END
+gmMemChain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMemChain.cpp
+END
+gmHash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/165/dep/src/gm/gmHash.cpp
+END
+gmMem.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMem.h
+END
+gmDebugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmDebugger.cpp
+END
+gmVariable.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/853/dep/src/gm/gmVariable.h
+END
+gmMachineLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMachineLib.cpp
+END
+gmByteCodeGen.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/165/dep/src/gm/gmByteCodeGen.h
+END
+gmScanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/165/dep/src/gm/gmScanner.h
+END
+gmCodeTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmCodeTree.h
+END
+gmArrayLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmArrayLib.cpp
+END
+gmConfig_p_gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/177/dep/src/gm/gmConfig_p_gcc.h
+END
+gmUserObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/165/dep/src/gm/gmUserObject.cpp
+END
+gmMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMachine.h
+END
+gmSystemLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/165/dep/src/gm/gmSystemLib.cpp
+END
+gmFunctionObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/165/dep/src/gm/gmFunctionObject.cpp
+END
+gmVector3Lib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/165/dep/src/gm/gmVector3Lib.cpp
+END
+gmOperators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/165/dep/src/gm/gmOperators.cpp
+END
+gmCall.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/165/dep/src/gm/gmCall.h
+END
+gmMathLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMathLib.h
+END
+gmVariable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmVariable.cpp
+END
+gmArraySimple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/165/dep/src/gm/gmArraySimple.cpp
+END
+gmDebugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/165/dep/src/gm/gmDebugger.h
+END
+gmScanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/165/dep/src/gm/gmScanner.cpp
+END
+gmStreamBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/165/dep/src/gm/gmStreamBuffer.h
+END
+gmMemFixed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/165/dep/src/gm/gmMemFixed.cpp
+END
+gmStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/165/dep/src/gm/gmStream.h
+END
+gmGCRoot.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/507/dep/src/gm/gmGCRoot.h
+END
+gmStringLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/165/dep/src/gm/gmStringLib.h
+END
+gmStringObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/853/dep/src/gm/gmStringObject.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/167/dep/src/gm/Makefile.am
+END
+gmCodeGenHooks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/165/dep/src/gm/gmCodeGenHooks.cpp
+END

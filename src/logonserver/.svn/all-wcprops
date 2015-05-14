@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ascent/!svn/ver/926/src/logonserver
+END
+AuthStructs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/513/src/logonserver/AuthStructs.h
+END
+LogonOpcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ascent/!svn/ver/730/src/logonserver/LogonOpcodes.h
+END
+LogonConsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ascent/!svn/ver/853/src/logonserver/LogonConsole.cpp
+END
+LogonConsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/44/src/logonserver/LogonConsole.h
+END
+AuthSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ascent/!svn/ver/911/src/logonserver/AuthSocket.cpp
+END
+AuthSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/911/src/logonserver/AuthSocket.h
+END
+AccountCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ascent/!svn/ver/911/src/logonserver/AccountCache.cpp
+END
+LogonCommServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ascent/!svn/ver/926/src/logonserver/LogonCommServer.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/913/src/logonserver/Main.cpp
+END
+AccountCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ascent/!svn/ver/730/src/logonserver/AccountCache.h
+END
+LogonCommServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ascent/!svn/ver/915/src/logonserver/LogonCommServer.h
+END
+LogonStdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/853/src/logonserver/LogonStdAfx.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/21/src/logonserver/Makefile.am
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/737/src/logonserver/Main.h
+END
+RealmlistThreadMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ascent/!svn/ver/662/src/logonserver/RealmlistThreadMgr.cpp
+END
+LogonOpcodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/44/src/logonserver/LogonOpcodes.cpp
+END
+PeriodicFunctionCall_Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascent/!svn/ver/44/src/logonserver/PeriodicFunctionCall_Thread.h
+END
+LogonStdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/21/src/logonserver/LogonStdAfx.h
+END

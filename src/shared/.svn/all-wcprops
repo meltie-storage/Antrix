@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/ascent/!svn/ver/930/src/shared
+END
+LocationVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/44/src/shared/LocationVector.h
+END
+CallBack.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/44/src/shared/CallBack.h
+END
+MersenneTwister.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/44/src/shared/MersenneTwister.h
+END
+CrashHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/44/src/shared/CrashHandler.h
+END
+Singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/44/src/shared/Singleton.h
+END
+Storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/909/src/shared/Storage.h
+END
+PacketLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/21/src/shared/PacketLog.cpp
+END
+NGLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/909/src/shared/NGLog.h
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/662/src/shared/Util.cpp
+END
+StackWalker.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/44/src/shared/StackWalker.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/44/src/shared/crc32.h
+END
+RC4Engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/221/src/shared/RC4Engine.h
+END
+WorldPacket.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/112/src/shared/WorldPacket.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/44/src/shared/Timer.h
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/909/src/shared/Log.h
+END
+antrix_getopt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/848/src/shared/antrix_getopt.cpp
+END
+svn_revision.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/921/src/shared/svn_revision.h
+END
+TextLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/394/src/shared/TextLogger.h
+END
+WoWGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/44/src/shared/WoWGuid.h
+END
+CallBack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/21/src/shared/CallBack.cpp
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/926/src/shared/Common.h
+END
+MemoryLeaks.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/44/src/shared/MemoryLeaks.h
+END
+CrashHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/930/src/shared/CrashHandler.cpp
+END
+MersenneTwister.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/21/src/shared/MersenneTwister.cpp
+END
+ByteBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/925/src/shared/ByteBuffer.h
+END
+StackBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/848/src/shared/StackBuffer.h
+END
+PreallocatedQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/44/src/shared/PreallocatedQueue.h
+END
+StackWalker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/44/src/shared/StackWalker.cpp
+END
+crc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/44/src/shared/crc32.cpp
+END
+PacketLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/21/src/shared/PacketLog.h
+END
+Errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/21/src/shared/Errors.h
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/909/src/shared/Log.cpp
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/44/src/shared/Util.h
+END
+AuthCodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/21/src/shared/AuthCodes.h
+END
+TextLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/848/src/shared/TextLogger.cpp
+END
+MemoryLeaks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/21/src/shared/MemoryLeaks.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/912/src/shared/Makefile.am
+END
+New-Bytebuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/569/src/shared/New-Bytebuffer.h
+END
+antrix_getopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/738/src/shared/antrix_getopt.h
+END

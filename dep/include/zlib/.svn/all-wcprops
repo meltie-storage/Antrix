@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ascent/!svn/ver/21/dep/include/zlib
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/21/dep/include/zlib/zconf.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/21/dep/include/zlib/zlib.h
+END

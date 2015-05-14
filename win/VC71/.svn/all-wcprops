@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/ascent/!svn/ver/912/win/VC71
+END
+zlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/1/win/VC71/zlib.vcproj
+END
+antrix.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/896/win/VC71/antrix.vcproj
+END
+logonserver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/896/win/VC71/logonserver.vcproj
+END
+shared.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/912/win/VC71/shared.vcproj
+END
+game.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/909/win/VC71/game.vcproj
+END
+gamemonkey.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/165/win/VC71/gamemonkey.vcproj
+END

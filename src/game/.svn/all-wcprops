@@ -1,0 +1,1025 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/ascent/!svn/ver/930/src/game
+END
+BattlegroundMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/915/src/game/BattlegroundMgr.cpp
+END
+AreaTrigger.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/311/src/game/AreaTrigger.h
+END
+Guild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/859/src/game/Guild.cpp
+END
+WorldSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/915/src/game/WorldSocket.h
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/922/src/game/Object.cpp
+END
+ClusterInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/915/src/game/ClusterInterface.h
+END
+WarsongGulch.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/621/src/game/WarsongGulch.h
+END
+Professions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/641/src/game/Professions.cpp
+END
+AuctionHouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/44/src/game/AuctionHouse.h
+END
+ScriptMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/927/src/game/ScriptMgr.h
+END
+Creature.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/766/src/game/Creature.h
+END
+SpellEffects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/898/src/game/SpellEffects.cpp
+END
+ThreadMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/44/src/game/ThreadMgr.h
+END
+WorldRunnable.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/44/src/game/WorldRunnable.h
+END
+Chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ascent/!svn/ver/916/src/game/Chat.h
+END
+PetHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/856/src/game/PetHandler.cpp
+END
+TransporterHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/44/src/game/TransporterHandler.h
+END
+MailSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/852/src/game/MailSystem.cpp
+END
+HonorHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/44/src/game/HonorHandler.h
+END
+Level1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/901/src/game/Level1.cpp
+END
+MovementHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/916/src/game/MovementHandler.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/30/src/game/StdAfx.cpp
+END
+InstanceSaveMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/896/src/game/InstanceSaveMgr.cpp
+END
+LogonCommClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/915/src/game/LogonCommClient.cpp
+END
+Level3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/916/src/game/Level3.cpp
+END
+ItemHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/857/src/game/ItemHandler.cpp
+END
+EventMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/654/src/game/EventMgr.h
+END
+CThreads.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/44/src/game/CThreads.h
+END
+WarsongGulch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/843/src/game/WarsongGulch.cpp
+END
+QueryHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/896/src/game/QueryHandler.cpp
+END
+GameObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/754/src/game/GameObject.h
+END
+ChannelHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/915/src/game/ChannelHandler.cpp
+END
+LfgHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/843/src/game/LfgHandler.cpp
+END
+AuctionMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/833/src/game/AuctionMgr.cpp
+END
+TerrainMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/921/src/game/TerrainMgr.cpp
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/713/src/game/Object.h
+END
+SpellHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/859/src/game/SpellHandler.cpp
+END
+Professions.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/612/src/game/Professions.h
+END
+Chat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/916/src/game/Chat.cpp
+END
+TaxiMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/44/src/game/TaxiMgr.h
+END
+HonorHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/848/src/game/HonorHandler.cpp
+END
+SocialMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/44/src/game/SocialMgr.h
+END
+EventMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/315/src/game/EventMgr.cpp
+END
+AlteracValley.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/662/src/game/AlteracValley.cpp
+END
+EventableObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/848/src/game/EventableObject.cpp
+END
+Corpse.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/557/src/game/Corpse.h
+END
+Player.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/916/src/game/Player.h
+END
+Group.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/887/src/game/Group.h
+END
+TaxiMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/44/src/game/TaxiMgr.cpp
+END
+MapCell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/414/src/game/MapCell.cpp
+END
+Arenas.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/44/src/game/Arenas.h
+END
+TerrainMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/921/src/game/TerrainMgr.h
+END
+DynamicObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/44/src/game/DynamicObject.h
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ascent/!svn/ver/927/src/game/Map.h
+END
+MapScriptInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ascent/!svn/ver/44/src/game/MapScriptInterface.h
+END
+MapMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/431/src/game/MapMgr.h
+END
+Corpse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/848/src/game/Corpse.cpp
+END
+AreaTrigger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/896/src/game/AreaTrigger.cpp
+END
+Pet.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/ascent/!svn/ver/438/src/game/Pet.h
+END
+TradeHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/438/src/game/TradeHandler.cpp
+END
+WorldSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/911/src/game/WorldSocket.cpp
+END
+Opcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/801/src/game/Opcodes.h
+END
+UpdateMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/44/src/game/UpdateMask.h
+END
+CombatHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/44/src/game/CombatHandler.cpp
+END
+WorkerServerClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/915/src/game/WorkerServerClient.h
+END
+DynamicObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/819/src/game/DynamicObject.cpp
+END
+QuestMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/312/src/game/QuestMgr.h
+END
+Channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/754/src/game/Channel.h
+END
+LfgMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/44/src/game/LfgMgr.cpp
+END
+NameTables.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/44/src/game/NameTables.h
+END
+MapMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/896/src/game/MapMgr.cpp
+END
+MapScriptInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/507/src/game/MapScriptInterface.cpp
+END
+Skill.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ascent/!svn/ver/21/src/game/Skill.h
+END
+Unit.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ascent/!svn/ver/922/src/game/Unit.h
+END
+faction.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/544/src/game/faction.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/298/src/game/Makefile.am
+END
+MiscHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/926/src/game/MiscHandler.cpp
+END
+GroupHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/887/src/game/GroupHandler.cpp
+END
+World.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/896/src/game/World.h
+END
+debugcmds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/848/src/game/debugcmds.cpp
+END
+LogonCommHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/636/src/game/LogonCommHandler.h
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/909/src/game/StdAfx.h
+END
+Item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/848/src/game/Item.cpp
+END
+InstanceSaveMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/64/src/game/InstanceSaveMgr.h
+END
+LogonCommClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/915/src/game/LogonCommClient.h
+END
+WorkerServerClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/915/src/game/WorkerServerClient.cpp
+END
+WorldSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/915/src/game/WorldSession.h
+END
+GameObject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/848/src/game/GameObject.cpp
+END
+ObjectStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/896/src/game/ObjectStorage.h
+END
+Quest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/833/src/game/Quest.cpp
+END
+TaxiHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/569/src/game/TaxiHandler.cpp
+END
+WeatherMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/833/src/game/WeatherMgr.cpp
+END
+QuestMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/872/src/game/QuestMgr.cpp
+END
+WorldCreator.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/164/src/game/WorldCreator.h
+END
+RaidHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/886/src/game/RaidHandler.cpp
+END
+Unit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/922/src/game/Unit.cpp
+END
+SocialMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/833/src/game/SocialMgr.cpp
+END
+SpellAuras.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/860/src/game/SpellAuras.h
+END
+ObjectMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/909/src/game/ObjectMgr.h
+END
+ChannelMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/569/src/game/ChannelMgr.h
+END
+LfgMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/44/src/game/LfgMgr.h
+END
+ItemInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/869/src/game/ItemInterface.h
+END
+Spell.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/879/src/game/Spell.h
+END
+ArathiBasin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/848/src/game/ArathiBasin.cpp
+END
+World.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/915/src/game/World.cpp
+END
+DuelHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/44/src/game/DuelHandler.cpp
+END
+Level0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/833/src/game/Level0.cpp
+END
+LootMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/680/src/game/LootMgr.h
+END
+ItemPrototype.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/869/src/game/ItemPrototype.h
+END
+Level2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/919/src/game/Level2.cpp
+END
+CharacterHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/927/src/game/CharacterHandler.cpp
+END
+WorldSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/915/src/game/WorldSession.cpp
+END
+ObjectStorage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/919/src/game/ObjectStorage.cpp
+END
+Group.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/843/src/game/Group.cpp
+END
+Player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/922/src/game/Player.cpp
+END
+WayPoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/852/src/game/WayPoints.cpp
+END
+AddonMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/44/src/game/AddonMgr.h
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ascent/!svn/ver/869/src/game/Item.h
+END
+BattlegroundMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/721/src/game/BattlegroundMgr.h
+END
+WorldCreator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/915/src/game/WorldCreator.cpp
+END
+Guild.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/909/src/game/Guild.h
+END
+AIInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/929/src/game/AIInterface.cpp
+END
+SpellAuras.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/930/src/game/SpellAuras.cpp
+END
+BattlegroundCommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ascent/!svn/ver/848/src/game/BattlegroundCommands.cpp
+END
+ThreadMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/662/src/game/ThreadMgr.cpp
+END
+ChatHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/922/src/game/ChatHandler.cpp
+END
+NPCHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/885/src/game/NPCHandler.cpp
+END
+Spell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ascent/!svn/ver/927/src/game/Spell.cpp
+END
+ItemInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/909/src/game/ItemInterface.cpp
+END
+TransporterHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/915/src/game/TransporterHandler.cpp
+END
+CellHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/44/src/game/CellHandler.h
+END
+MapCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ascent/!svn/ver/44/src/game/MapCell.h
+END
+Container.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/848/src/game/Container.cpp
+END
+LootMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/892/src/game/LootMgr.cpp
+END
+Pet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/919/src/game/Pet.cpp
+END
+BattlegroundHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ascent/!svn/ver/558/src/game/BattlegroundHandler.cpp
+END
+AddonMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/926/src/game/AddonMgr.cpp
+END
+Opcodes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/801/src/game/Opcodes.cpp
+END
+CThreads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/44/src/game/CThreads.cpp
+END
+QuestHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/859/src/game/QuestHandler.cpp
+END
+GMTicket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/662/src/game/GMTicket.cpp
+END
+Channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/890/src/game/Channel.cpp
+END
+AuctionMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/44/src/game/AuctionMgr.h
+END
+UpdateFields.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/44/src/game/UpdateFields.h
+END
+AIInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/929/src/game/AIInterface.h
+END
+NPCHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/885/src/game/NPCHandler.h
+END
+Container.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/44/src/game/Container.h
+END
+ReputationHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ascent/!svn/ver/853/src/game/ReputationHandler.cpp
+END
+LogonCommHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/915/src/game/LogonCommHandler.cpp
+END
+AlteracValley.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/44/src/game/AlteracValley.h
+END
+MiscHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/313/src/game/MiscHandler.h
+END
+EventableObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ascent/!svn/ver/526/src/game/EventableObject.h
+END
+WorkdSocketCluster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ascent/!svn/ver/909/src/game/WorkdSocketCluster.cpp
+END
+GuildHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/859/src/game/GuildHandler.cpp
+END
+ClusterInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ascent/!svn/ver/915/src/game/ClusterInterface.cpp
+END
+Stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/873/src/game/Stats.h
+END
+Quest.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/874/src/game/Quest.h
+END
+AuctionHouse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/848/src/game/AuctionHouse.cpp
+END
+Arenas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/526/src/game/Arenas.cpp
+END
+ScriptMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/927/src/game/ScriptMgr.cpp
+END
+Creature.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/848/src/game/Creature.cpp
+END
+WeatherMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/44/src/game/WeatherMgr.h
+END
+SkillHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/371/src/game/SkillHandler.cpp
+END
+ObjectMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/930/src/game/ObjectMgr.cpp
+END
+Map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/ascent/!svn/ver/896/src/game/Map.cpp
+END
+WorldRunnable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/44/src/game/WorldRunnable.cpp
+END
+RecallCommands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ascent/!svn/ver/852/src/game/RecallCommands.cpp
+END
+ArathiBasin.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/44/src/game/ArathiBasin.h
+END
+MailSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/446/src/game/MailSystem.h
+END
+SpellFailure.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/135/src/game/SpellFailure.h
+END

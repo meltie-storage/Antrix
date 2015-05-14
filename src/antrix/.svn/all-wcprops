@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/ascent/!svn/ver/930/src/antrix
+END
+MainServerDefines.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ascent/!svn/ver/833/src/antrix/MainServerDefines.h
+END
+Master.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/892/src/antrix/Master.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ascent/!svn/ver/737/src/antrix/Main.cpp
+END
+CConsole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ascent/!svn/ver/853/src/antrix/CConsole.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/168/src/antrix/Makefile.am
+END
+CConsole.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/311/src/antrix/CConsole.h
+END
+Master.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/930/src/antrix/Master.cpp
+END

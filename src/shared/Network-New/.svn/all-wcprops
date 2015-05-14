@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/910/src/shared/Network-New
+END
+Network.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ascent/!svn/ver/910/src/shared/Network-New/Network.h
+END
+TcpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ascent/!svn/ver/910/src/shared/Network-New/TcpSocket.cpp
+END
+SocketEngine_kqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_kqueue.h
+END
+CircularBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ascent/!svn/ver/910/src/shared/Network-New/CircularBuffer.h
+END
+TcpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ascent/!svn/ver/910/src/shared/Network-New/TcpSocket.h
+END
+SocketEngine_poll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_poll.cpp
+END
+BaseBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ascent/!svn/ver/910/src/shared/Network-New/BaseBuffer.h
+END
+SocketEngine_epoll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_epoll.cpp
+END
+SocketEngine_poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_poll.h
+END
+ListenSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ascent/!svn/ver/910/src/shared/Network-New/ListenSocket.h
+END
+SocketEngine_select.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_select.cpp
+END
+SocketEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine.cpp
+END
+SocketEngine_epoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_epoll.h
+END
+SocketEngine_select.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_select.h
+END
+SocketEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine.h
+END
+StraightBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ascent/!svn/ver/910/src/shared/Network-New/StraightBuffer.h
+END
+SocketEngine_iocp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_iocp.cpp
+END
+BaseSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ascent/!svn/ver/910/src/shared/Network-New/BaseSocket.h
+END
+SocketEngine_kqueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_kqueue.cpp
+END
+SocketEngine_iocp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ascent/!svn/ver/910/src/shared/Network-New/SocketEngine_iocp.h
+END

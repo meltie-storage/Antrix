@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/ascent/!svn/ver/530/sql
+END
+spell_disable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/530/sql/spell_disable.sql
+END
+npc_monstersay.sql
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ascent/!svn/ver/104/sql/npc_monstersay.sql
+END
+reputation_instance_onkill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ascent/!svn/ver/529/sql/reputation_instance_onkill.sql
+END
+spell_disable_trainers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ascent/!svn/ver/530/sql/spell_disable_trainers.sql
+END
+clean_db.rar
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ascent/!svn/ver/65/sql/clean_db.rar
+END
+rev. 285 reputation tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ascent/!svn/ver/289/sql/rev.%20285%20reputation%20tables.sql
+END
+command_overrides.sql
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ascent/!svn/ver/334/sql/command_overrides.sql
+END
+worldmap_info.sql
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ascent/!svn/ver/64/sql/worldmap_info.sql
+END

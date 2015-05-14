@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/ascent/!svn/ver/1/dep/lib/debug
+END
+libeay32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/1/dep/lib/debug/libeay32.lib
+END
+libmySQL.lib
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/1/dep/lib/debug/libmySQL.lib
+END
+libeay32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/1/dep/lib/debug/libeay32.dll
+END
+libmySQL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ascent/!svn/ver/1/dep/lib/debug/libmySQL.dll
+END
+libpq.lib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ascent/!svn/ver/1/dep/lib/debug/libpq.lib
+END
